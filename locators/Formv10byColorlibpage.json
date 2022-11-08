@@ -1,0 +1,45 @@
+{
+ "Formv10byColorlib_first_name": [
+  "#first_name",
+  ".first_name"
+ ],
+ "Formv10byColorlib_last_name": [
+  "#last_name",
+  ".last_name"
+ ],
+ "Formv10byColorlib_company": [
+  "#company",
+  ".company"
+ ],
+ "Formv10byColorlib_business": [
+  "#business",
+  ".business"
+ ],
+ "Formv10byColorlib_street": [
+  "#street",
+  ".street"
+ ],
+ "Formv10byColorlib_additional": [
+  "#additional",
+  ".additional"
+ ],
+ "Formv10byColorlib_zip": [
+  "#zip",
+  ".zip"
+ ],
+ "Formv10byColorlib_code": [
+  "#code",
+  ".code"
+ ],
+ "Formv10byColorlib_phone": [
+  "#phone",
+  ".phone"
+ ],
+ "Formv10byColorlib_your_email": [
+  "#your_email",
+  ".your_email"
+ ],
+ "Formv10byColorlib_checkbox": ".checkbox",
+ "Formv10byColorlib_register": ".register",
+ "Formv10byColorlib_myform": "#myform"
+}
