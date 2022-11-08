@@ -1,0 +1,7 @@
+{
+    "new":"//button[normalize-space()='New']",
+    "ok":"//button[normalize-space()='OK']",
+    "Back":"//i[@data-icon-name='Back']",
+    "CompanyLogo":"//a[@title='Go to role center']",
+    "Yes":"//button[normalize-space()='Yes']"
+}

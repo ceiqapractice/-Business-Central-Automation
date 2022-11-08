@@ -1,0 +1,10 @@
+{
+    "MoreOptions":"//span[@aria-label='More options']",
+    "Related":"//span[@aria-label='Related']",
+    "Customer":"//div[normalize-space()='Customer']",
+    "Homologation":"//div[normalize-space()='Homologations']/parent::div/div",
+    "HomologationNo":"//td[@controlname='Customer no.']//input",
+    "HomologationItemCategoryCode":"//td[@controlname='Item category code']//input",
+    "HomologationExpirationDate":"//td[@controlname='Expiration date']//input",
+    "HomologationBack":["(//i[@data-icon-name='Back'])[3]","(//i[@data-icon-name='Back'])[2]"]   
+}

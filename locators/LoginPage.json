@@ -1,0 +1,6 @@
+{
+    "email":"//*[@type='email']",
+    "password":"//*[@type='password']",
+    "submit":"//*[@type='submit']",
+    "Yes":"//*[@id='idBtn_Back']"
+}

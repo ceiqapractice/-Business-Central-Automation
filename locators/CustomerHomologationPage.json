@@ -1,0 +1,18 @@
+{
+    "Showtherest":"//button[@aria-label='Show the rest']",
+    "MoreOption":"//div[text()='More options']",
+    "Related":"//span[normalize-space()='Related']",
+    "Customer":"(//div[normalize-space()='Customer'])",
+    "Homologation":"//div[normalize-space()='Homologations']/parent::div/div",
+    "HomologationNo":"//td[@controlname='Customer no.']//input",
+    "HomologationItemCategoryCode":"//td[@controlname='Item category code']//input",
+    "HomologationExpirationDate":"//td[@controlname='Expiration date']//input",
+    "HomologationBack":["(//i[@data-icon-name='Back'])[2]","(//i[@data-icon-name='Back'])[1]"],
+    "FilterIcon":"//span[@class='filteredIndicator ms-filter-iconouter']",
+    "FilterIcon_Clearfilter":"//span[normalize-space()='Clear filter']",
+    "New":"(//button[@aria-label='New'])[3]",
+    "OverallErrorMessage":"//div[text()='The page has an error. ']",
+    "CustomerNoErrorMsg":"//td[@controlname='Customer no.']/div/div/img",
+    "ItemCategoryCodeErrorMsg":"//td[@controlname='Item category code']/div/div/img",
+    "Yes":"//button[normalize-space()='Yes']"
+}

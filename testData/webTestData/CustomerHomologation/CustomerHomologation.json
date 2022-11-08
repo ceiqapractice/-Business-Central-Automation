@@ -1,0 +1,7 @@
+{
+    "CorrectCustomerNo":"C01270",
+    "CorrectItemCategoryCode":"CHAIR",
+    "WrongCustomerNo":"C12345",
+    "WrongItemCategoryCode":"CHAIRRRRR",
+    "ExpiryDate":"12/03/2022"
+}
