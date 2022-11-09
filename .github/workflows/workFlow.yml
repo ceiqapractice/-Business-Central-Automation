@@ -1,7 +1,7 @@
 name: BC Workflow
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 jobs:
   npm-test:
     runs-on: ubuntu-latest
