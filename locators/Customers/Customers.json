@@ -1,0 +1,10 @@
+
+{
+"new": "//button[@aria-label='New']",
+"delete": "//button[@aria-label='Delete']",
+"process": "//button[@aria-label='Process']",
+"new document": "//button[@aria-label='New Document']",
+"customer": "//button[@aria-label='Customer']",
+"prices & discounts": "//button[@aria-label='Prices & Discounts']",
+"report": "//button[@aria-label='Report']"
+}
