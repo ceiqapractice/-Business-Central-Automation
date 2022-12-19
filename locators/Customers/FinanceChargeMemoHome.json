@@ -1,0 +1,21 @@
+{
+    "Home" : "//button[@aria-label='Home']",
+    "Report" : "//button[@aria-label='Report']",
+    "Memo" : "//button[@aria-label='Memo']",
+    "Navigate" : "//button[@aria-label='Navigate']",
+    "More Options" : "//button[@title='Reveal secondary actions']",
+    "Create Finance Charge Memos..." : "//button[@aria-label='Create Finance Charge Memos...']",
+    "Issue..." : "//button[@aria-label='Issue...']",
+    "Customer No.": "//div[@controlname='Customer No.']/div/input",
+    "Name": "//div[@controlname='Name']/div/input",
+    "Address": "//div[@controlname='Address']/div/input",
+    "City": "//div[@controlname='City']/div/input",
+    "State": "//div[@controlname='County']/div/input",
+    "ZIP Code": "//div[@controlname='Post Code']/div/input",
+    "Posting Date": "//div[@controlname='Posting Date']/div/input",
+    "Document Date": "//div[@controlname='Document Date']/div/input",
+    "Fin.Charge Terms Code" : "//div[@controlname='Fin. Charge Terms Code']/div/input",
+    "Due Date": "//div[@controlname='Due Date']/div/input",
+    "Department Code": "//div[@controlname='Shortcut Dimension 1 Code']/div/input",
+    "Customergroup Code": "//div[@controlname='Shortcut Dimension 2 Code']/div/input"
+}

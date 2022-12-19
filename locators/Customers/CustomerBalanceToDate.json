@@ -1,0 +1,18 @@
+{
+    "Printer" : "//div[@controlname='2000010031']/div/input",
+    "Report Layout" : "//a[@title='Review or update the value for Report Layout']",
+    "Ending Date" : "//div[@controlname='Ending Date']/div/input",
+    "Show Amounts in $" : "//div[@controlname='PrintAmountInLCY']/div/div/input",
+    "New Page per Customer" : "//div[@controlname='PrintOnePrPage']/div/div/input",
+    "Include Unapplied Entries" : "//div[@controlname='PrintUnappliedEntries']/div/div/input",
+    "Show Entries with Zero Balance" : "//div[@controlname='ShowEntriesWithZeroBalance']/div/div/input",
+    "No.": "//div[@controlname='No.']/input",
+    "Filter Field": "//button[@aria-label='Add a new filter on a field']",
+    "Date Filter" : "//div[@controlname='Date Filter']/input",
+    "Filter Totals": "//button[@aria-label='Add a new filter on totals']",
+    "Send to..." : "//button[normalize-space()='Send to...']",
+    "Print" : "//button[normalize-space()='Print']",
+    "Preview" : "//button[normalize-space()='Preview']",
+    "Cancel" : "//button[normalize-space()='Cancel']"
+
+}

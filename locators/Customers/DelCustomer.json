@@ -1,0 +1,4 @@
+{
+    "Yes":"//button[normalize-space()='Yes']",
+    "No":"//button[normalize-space()='No']"
+}

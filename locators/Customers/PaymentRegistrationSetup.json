@@ -1,0 +1,13 @@
+{
+    "Journal Template Name": "//div[@controlname='Journal Template Name']/div/input",
+    "Journal Batch Name" : "//div[@controlname='Journal Batch Name']/div/input",
+    "Balancing Account Type" : "//div[@controlname='Bal. Account Type']/div/select",
+    "Balancing Account" : "//div[@controlname='Bal. Account No.']/div/input",
+    "Use this Account as Default" : "//div[@controlname='Use this Account as Def.']/div/div/input",
+    "Automatically Fill Date Received" : "//div[@controlname='Auto Fill Date Received']/div/div/input",
+    "OK" : "//button[normalize-space()='OK']",
+    "Cancel" : "//button[normalize-space()='Cancel']"
+
+}
+
+   

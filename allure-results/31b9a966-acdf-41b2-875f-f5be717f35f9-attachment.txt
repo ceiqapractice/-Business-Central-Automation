@@ -1,0 +1,1 @@
+path C:\Users\gpradeep\git\BC1\Business-Central-Automation\locators\CommonPage.json

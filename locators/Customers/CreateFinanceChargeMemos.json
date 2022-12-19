@@ -1,0 +1,10 @@
+{
+    "Use default values from": "//div[@controlname='2000010021']/div/input",
+    "Posting Date": "//div[@controlname='FinChrgMemoHeaderReq.Posting Date']/div/input",
+    "Document Date": "//div[@controlname='DocumentDate']/div/input",
+    "No.": "//div[@controlname='No.']/input",
+    "Filter Field": "//button[@aria-label='Add a new filter on a field']",
+    "Filter Totals": "//button[@aria-label='Add a new filter on totals']",
+    "OK" : "//button[normalize-space()='OK']",
+    "Cancel" : "//button[normalize-space()='Cancel']"
+}

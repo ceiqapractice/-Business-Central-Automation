@@ -12,24 +12,20 @@ const config = {
   },
  // retries:2,
   
- reporter: [['allure-playwright']],
+ reporter: [['html']],
 
  use: {
   viewport:{ width: 1280, height: 720 },
   //viewport:null,
   browserName :  'chromium',    
-  headless : true,
+  headless : false,
   ignoreHTTPSErrors: true,
   screenshot : 'on',
   trace : 'off',
   launchOptions : {
       args : ["--start-maximized"]
   },
-  contextOptions: {
-    recordVideo: {
-      dir: './test-results/videos/'
-    }
-  }
+  
 }  
 };
 

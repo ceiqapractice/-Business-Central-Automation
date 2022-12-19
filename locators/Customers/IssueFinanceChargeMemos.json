@@ -1,0 +1,10 @@
+{
+    "Print" : "//div[@controlname='PrintDoc']/div/select",
+    "Replace Posting Date" : "//div[@controlname='ReplacePostingDate']/div/div/input",
+    "Posting Date" : "//div[@controlname='PostingDateReq']/div/input",
+    "Hide Email Dialog" : "//div[@controlname='HideEmailDialog']/div/div/input",
+    "No.": "//div[@controlname='No.']/input",
+    "Filter Field": "//button[@aria-label='Add a new filter on a field']",
+    "OK" : "//button[normalize-space()='OK']",
+    "Cancel" : "//button[normalize-space()='Cancel']"
+}

@@ -1,0 +1,6 @@
+{
+    "Dimensions" : "//button[@aria-label='Dimensions']",
+    "Statistics" : "//button[@aria-label='Statistics']",
+    "Comments" : "//button[@aria-label='Comments']"
+
+}
