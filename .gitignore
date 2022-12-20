@@ -1,3 +1,5 @@
 node_modules/
 /playwright/.cache/
 /playwright_report/
+/allure-results/
+/playwright-report/

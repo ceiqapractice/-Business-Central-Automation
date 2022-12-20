@@ -1,1 +1,0 @@
-./testData/webTestData/LoginPage/LoginPage.json
