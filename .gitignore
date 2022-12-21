@@ -3,3 +3,4 @@ node_modules/
 /playwright_report/
 /allure-results/
 /playwright-report/
+/test-results/

@@ -1,0 +1,11 @@
+{
+    "Make Order": "//button[@aria-label='Make Order']",
+    "Make Invoice": "//button[@aria-label='Make Invoice']",
+    "Release": "//button[@aria-label='Release']",
+    "Archive Document": "//button[@aria-label='Archive Document']",
+    "Customer Name" : "//div[@controlname='Sell-to Customer Name']/div/input",
+    "Type" : "//td[@controlname='FilteredTypeField']/input",
+    "No." : "//td[@controlname='No.']/input",
+    "Description" : "//td[@controlname='Description']/input",
+    "Quantity" : "//td[@controlname='Quantity']/input"
+}
