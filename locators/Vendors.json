@@ -1,0 +1,78 @@
+{
+    "vendors":
+    {        
+        "search":"//div[normalize-space()='Search']",
+        "new":"//button[normalize-space()='New']",
+        "delete":"//button[normalize-space()='Delete']",
+        "process":"//span[normalize-space()='Process']/ancestor::button",
+        "new document":"//span[normalize-space()='New Document']/ancestor::button",
+        "vendor":"//span[normalize-space()='Vendor']/ancestor::button"
+    },
+    "vendors new":
+    {
+        "vendor company":"//a[normalize-space()='VENDOR COMPANY']",
+        "vendor person":"//a[normalize-space()='VENDOR PERSON']",
+        "vendor company new page":
+        {
+            "No.":"//div[@controlname='No.']//input",
+            "Name":"//div[@controlname='Name']//input",
+            "Blocked":"//div[@controlname='Blocked']//select",
+            "Balance ($)":"//a[text()='Balance ($)']//following-sibling::div//a",
+            "Balance ($) As Customer":"//a[text()='Balance ($) As Customer']//following-sibling::div//span",
+            "Balance Due ($)":"//a[text()='Balance Due ($)']//following-sibling::div/a",
+            "Address":"//a[text()='Address']//following-sibling::div//input",
+            "Address 2":"//a[text()='Address 2']//following-sibling::div//input",
+            "Country/Region Code":"//a[text()='Country/Region Code']//following-sibling::div//input",
+            "City":"//a[text()='City']//following-sibling::div//input",
+            "State":"//a[text()='State']//following-sibling::div//input",
+            "ZIP Code":"//a[text()='ZIP Code']//following-sibling::div//input",
+            "Phone No.":"//a[text()='Phone No.']//following-sibling::div//input",
+            "Mobile Phone No.":"//a[text()='Mobile Phone No.']//following-sibling::div//input",
+            "Email":"//a[text()='Email']//following-sibling::div//input",
+            "Home Page":"//a[text()='Home Page']//following-sibling::div//input",
+            "Our Account No.":"//a[text()='Our Account No.']//following-sibling::div//input",
+            "Primary Contact Code":"//a[text()='Primary Contact Code']//following-sibling::div//input",
+            "Contact":"//a[text()='Contact']//following-sibling::div//input",
+            
+            "Tax Registration No.":"//a[text()='Tax Registration No.']//following-sibling::div//input",
+            "Tax Area Code":"//a[text()='Tax Area Code']//following-sibling::div//input",
+            "Tax Liable":"//a[text()='Tax Liable']//following-sibling::div//label",
+            "Bank Communication":"//a[text()='Bank Communication']//following-sibling::div//select",
+
+            "Application Method":"//a[text()='Application Method']//following-sibling::div//span",
+            "Payment Terms Code":"//a[text()='Payment Terms Code']//following-sibling::div//a",
+            "Payment Method Code":"//a[text()='Payment Method Code']//following-sibling::div//a",
+            "Priority":"//a[text()='Priority']//following-sibling::div//span",
+            "Block Payment Tolerance":"//a[text()='Block Payment Tolerance']//following-sibling::div//input",
+            "Preferred Bank Account Code":"//a[text()='Preferred Bank Account Code']//following-sibling::div//input",
+            "Partner Type":"//a[text()='Partner Type']//following-sibling::div//select",
+            "Cash Flow Payment Terms Code":"//a[text()='Cash Flow Payment Terms Code']//following-sibling::div//input",
+            "FATCA filing requirement":"//a[text()='FATCA filing requirement']//following-sibling::div//input",
+            "Federal ID No.":"//a[text()='Federal ID No.']//following-sibling::div//input",
+            "Tax Identification Type":"//a[text()='Tax Identification Type']//following-sibling::div//select",
+            "Creditor No.":"//a[text()='Creditor No.']//following-sibling::div//input",
+            "Check Date Format":"//a[text()='Check Date Format']//following-sibling::div//select",
+            "Check Date Separator":"//a[text()='Check Date Separator']//following-sibling::div//select",
+
+            "Location Code":"//a[text()='Location Code']//following-sibling::div//input",
+            "Shipment Method Code":"//a[text()='Shipment Method Code']//following-sibling::div//input",
+            "Shipping Agent Code":"//a[text()='Shipping Agent Code']//following-sibling::div//input",
+            "Lead Time Calculation":"//a[text()='Lead Time Calculation']//following-sibling::div//input",
+            "Base Calendar Code":"//a[text()='Base Calendar Code']//following-sibling::div//input",
+            "Customized Calendar":"//a[text()='Customized Calendar']//following-sibling::div//a",
+            "Over-Receipt Code":"//a[text()='Over-Receipt Code']//following-sibling::div//input",
+
+            "Request Approval":"//button[@aria-label='Request Approval']",
+            "Send Approval Request":"//button[normalize-space()='Send Approval Request']",
+            "Cancel Approval Request":"//button[normalize-space()='Cancel Approval Request']",
+
+            "New Document":"//button[@aria-label='New Document']",
+            "Purchase Invoice":"//button[@aria-label='Purchase Invoice']",
+            "Purchase Order":"//button[@aria-label='Purchase Order']",
+            "Purchase Credit Memo":"//button[@aria-label='Purchase Credit Memo']",
+
+            "":""
+        }
+    }
+}
+

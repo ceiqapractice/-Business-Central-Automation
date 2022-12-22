@@ -5,14 +5,14 @@ const { LoginPage } = require("../../main/web/pageFunctions/LoginPage");
 const {AppFunctions} = require("../../main/web/commonFunctions/AppFunctions")
 const {locatorFinder} = require("../../Helpers/locatorFinder")
 const {CustomerHomologation}= require("../../main/web/pageFunctions/CustomerHomolgation");
-const { dataHandler } = require("../../Helpers/dataHandler");
+const { dataHandler } = require("../../HelpersCustomerHomologation/dataHandler");
 
 let topframe;
 let webActionObj;
 let page;
 
 const DataHandlertest=new dataHandler("CustomerCreation","web");
-const CustomerHomologationData=new dataHandler("CustomerHomologation","web");
+const CustomerHomologationData=new dataHandler("","web");
 
 test.beforeAll(async({browser},testInfo) => {  
   
