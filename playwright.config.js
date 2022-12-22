@@ -18,7 +18,7 @@ const config = {
   viewport:{ width: 1280, height: 720 },
   //viewport:null,
   browserName :  'chromium',    
-  headless : true,
+  headless : false,
   ignoreHTTPSErrors: true,
   screenshot : 'on',
   trace : 'off',
